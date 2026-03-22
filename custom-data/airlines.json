@@ -30,6 +30,12 @@
     "virtual": true
   },
   {
+    "icao": "VHL",
+    "name": "Valhalla Airlines",
+    "callsign": "Valkyr",
+    "virtual": true
+  },
+  {
     "icao": "CWG",
     "name": "Chickenwings Virtual Airline",
     "callsign": "Chickenwings",
